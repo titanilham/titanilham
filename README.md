@@ -14,5 +14,11 @@ while !dead:
     #sleep()
 
 ```
+---
+### Languages:
+![](https://icons8.ru/icon/7gdY5qNXaKC0/css3)
+
+
+### :fire: My Stats :
 
 
