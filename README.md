@@ -1,16 +1,18 @@
-### Hi there 👋
+# Good Evening! :shipit:
 
-<!--
-**titanilham/titanilham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![](https://media4.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=ecf05e47md3i4axuh4co0tsxebncwx1h1bvyiqcx6f89ornf&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<img src="https://komarev.com/ghpvc/?username=titanilham&style=flat-square&color=green" alt=""/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+```python
+while !dead:
+    eat()
+    code()
+    #sleep()
+
+```
+
+
