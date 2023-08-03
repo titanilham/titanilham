@@ -28,7 +28,6 @@ while !dead:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=titanilham&theme=dark#121212&background=000000)
 
-![](https://i.yapx.cc/Grj9r.gif)
-![](https://i.yapx.cc/Grj9g.gif)
+
 ---
 
