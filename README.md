@@ -36,7 +36,7 @@ while !dead:
 
 ___
 
-### Other accounts:
+<h1 syle="color=red;">Other accounts:</h1>
 
 <center>
     <div id="badges">
