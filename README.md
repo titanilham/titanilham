@@ -28,7 +28,7 @@ while !dead:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=titanilham&theme=dark#121212&background=000000)
 
-<img src = "https://royalquest.info/images/c/c3/%D0%9F%D1%83%D1%81%D1%82%D0%BE%D0%B9.png" width="40" height="40" >
+<img src = "https://royalquest.info/images/c/c3/%D0%9F%D1%83%D1%81%D1%82%D0%BE%D0%B9.png" width="100" height="100" >
 
 <p><img src="https://camo.githubusercontent.com/41923531fb3befbc56e85ac38dcb28f692ce993408f280e202001945fdaf820b/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f40696365313030303f7468656d653d6d6f65626f6f7275"/></p>
 
