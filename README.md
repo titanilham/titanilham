@@ -36,7 +36,8 @@ while !dead:
 
 ___
 
-<img src = "https://royalquest.info/images/c/c3/%D0%9F%D1%83%D1%81%D1%82%D0%BE%D0%B9.png" width="5" height="5" >
+### Other accounts:
+
 <center>
     <div id="badges">
   <a href="https://vk.com/aniime_guy" >
