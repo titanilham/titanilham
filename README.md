@@ -33,13 +33,13 @@ ___
 
 <center>
     <div id="badges">
-  <a href="https://vk.com/aniime_guy">
+  <a href="https://vk.com/aniime_guy" target="_blank">
     <img src="https://img.icons8.com/?size=512&id=13977&format=png"width="40" height="40"/>
   </a>
-  <a href="https://t.me/Ilham06">
+  <a href="https://t.me/Ilham06" target="_blank">
     <img src="https://img.icons8.com/?size=512&id=63306&format=png"width="40" height="40"/>
   </a>
-  <a href="https://www.youtube.com/channel/UC9m1N5x0OXWihGpR50Yk35g">
+  <a href="https://www.youtube.com/channel/UC9m1N5x0OXWihGpR50Yk35g" target="_blank">
     <img src="https://img.icons8.com/?size=512&id=13983&format=png"width="40" height="40" />
   </a>
 </div>
