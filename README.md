@@ -30,11 +30,11 @@ while !dead:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=titanilham&theme=dark#121212&background=000000)
 
-<img src = "https://royalquest.info/images/c/c3/%D0%9F%D1%83%D1%81%D1%82%D0%BE%D0%B9.png" width="20" height="20" >
+<img src = "https://royalquest.info/images/c/c3/%D0%9F%D1%83%D1%81%D1%82%D0%BE%D0%B9.png" width="10" height="10" >
 
 <p><img src="https://raw.githubusercontent.com/kori-lab/kori-lab/172ef3d12b7e10f9a19b1907cccf5f10f3c0bbd9/github-contribution-grid-snake.svg"/></p>
 
-<img src = "https://royalquest.info/images/c/c3/%D0%9F%D1%83%D1%81%D1%82%D0%BE%D0%B9.png" width="20" height="20" >
+
 
 ___
 
