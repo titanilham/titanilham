@@ -32,7 +32,7 @@ while !dead:
 
 <img src = "https://royalquest.info/images/c/c3/%D0%9F%D1%83%D1%81%D1%82%D0%BE%D0%B9.png" width="20" height="20" >
 
-<p><img src="https://camo.githubusercontent.com/41923531fb3befbc56e85ac38dcb28f692ce993408f280e202001945fdaf820b/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f40696365313030303f7468656d653d6d6f65626f6f7275"/></p>
+<p><img src="https://raw.githubusercontent.com/kori-lab/kori-lab/172ef3d12b7e10f9a19b1907cccf5f10f3c0bbd9/github-contribution-grid-snake.svg"/></p>
 
 <img src = "https://royalquest.info/images/c/c3/%D0%9F%D1%83%D1%81%D1%82%D0%BE%D0%B9.png" width="20" height="20" >
 
