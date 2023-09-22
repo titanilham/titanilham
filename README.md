@@ -53,8 +53,7 @@ ___
   <a href="https://www.youtube.com/channel/UC9m1N5x0OXWihGpR50Yk35g">
     <img src="https://img.icons8.com/?size=512&id=13983&format=png"width="40" height="40" />
   </a>
-
-">
+        
 </div>
 </center>
 
