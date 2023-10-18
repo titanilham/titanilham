@@ -28,7 +28,7 @@ while !dead:
 ### :fire: My Stats :
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=titanilham&theme=dark#121212&background=000000)
+![](https://github-readme-streak-stats.herokuapp.com/?user=titanilham&theme=tokyonight&background=000000)
 
 <img src = "https://royalquest.info/images/c/c3/%D0%9F%D1%83%D1%81%D1%82%D0%BE%D0%B9.png" width="10" height="10" >
 
