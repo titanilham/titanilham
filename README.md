@@ -32,7 +32,7 @@ while !dead:
 
 <img src = "https://royalquest.info/images/c/c3/%D0%9F%D1%83%D1%81%D1%82%D0%BE%D0%B9.png" width="10" height="10" >
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=titanilham&show_icons=true&theme=merko)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=titanilham&show_icons=true&theme=dark)
 
 
 <p><img src="https://raw.githubusercontent.com/kori-lab/kori-lab/172ef3d12b7e10f9a19b1907cccf5f10f3c0bbd9/github-contribution-grid-snake.svg"/></p>
