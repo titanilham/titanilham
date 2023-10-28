@@ -36,7 +36,7 @@ while !dead:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=titanilham&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titanilham&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titanilham&layout=compact&theme=tokyonight&hide=scss,css,html)
 
 <p><img src="https://raw.githubusercontent.com/kori-lab/kori-lab/172ef3d12b7e10f9a19b1907cccf5f10f3c0bbd9/github-contribution-grid-snake.svg"/></p>
 
