@@ -61,7 +61,7 @@ ___
   <a href="https://discord.com/channels/1019531122239094794/1019531122239094801">
     <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" width="40" height="40" title="Discord"/>
   </a>
-    <a href="https://monkeytype.com/profile/Ilham_47">
+    <a href="https://github.com/titanilham/titanilham/assets/86422270/cca7fb2d-3cd6-461f-a1b8-8ffd15920d48">
         <img src="https://ibb.co/C6TwphY" title="Monkeytype"/>
     </a>
     
