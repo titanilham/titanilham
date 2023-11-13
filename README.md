@@ -62,7 +62,7 @@ ___
     <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" width="40" height="40" title="Discord"/>
   </a>
     <a href="https://monkeytype.com/profile/Ilham_47">
-        <img src="https://media.discordapp.net/attachments/1154779063840419900/1173474651003957288/monkeytype.png?ex=6564166e&is=6551a16e&hm=5c36b861a2e74ec6662a93307d63f77284fa8eabbe4cb7ccbdd223a9dfa04182&=" width="40" title="Monkeytype"/>
+        <img src="https://media.discordapp.net/attachments/1154779063840419900/1173474651003957288/monkeytype.png?ex=6564166e&is=6551a16e&hm=5c36b861a2e74ec6662a93307d63f77284fa8eabbe4cb7ccbdd223a9dfa04182&=" width="42" title="Monkeytype"/>
     </a>
     
 </div>
