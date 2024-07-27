@@ -16,6 +16,8 @@ while !dead:
 
 ```
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titanilham&theme=tokyonight&hide=scss,css,html)
+
 ---
 
 
