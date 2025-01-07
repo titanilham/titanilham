@@ -1,7 +1,4 @@
-<!--# **Good Evening!**-->
-# Happy New Year!
-
-![2PHx](https://github.com/user-attachments/assets/91f86991-e6a8-452a-91aa-b987d4219f2d)
+# **Good Evening!**
 
 ### Languages:
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" height="40" title="Python"/><img src="https://github.com/titanilham/titanilham/assets/86422270/15ede0b8-cb81-4ea7-9e80-9b0067e33fd4" width="40" height="40" title="Java"/><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rust/rust-plain.svg" width="40" height="40" title="Rust"/><img
