@@ -26,7 +26,7 @@ while !dead:
   <a href="https://vk.com/aniime_guy" target="_blank">
     <img src="https://img.icons8.com/?size=512&id=13977&format=png"width="40" height="40" title="VK"/>
   </a>
-  <a href="https://t.me/Ilham06" target="_blank">
+  <a href="tg:t.me/ilham06" target="_blank">
     <img src="https://img.icons8.com/?size=512&id=63306&format=png"width="40" height="40" title="Telegram"/>
   </a> 
   <a href="https://www.youtube.com/channel/UC9m1N5x0OXWihGpR50Yk35g" target="_blank">
